@@ -4,9 +4,11 @@ The following repository contains codes for two purposes:
 - PNG image preprocessing
 - Neural Network training
 
+# Tif / Cos to png
+The used databases consist of files with tif or cos extensions. The 3 python files enable conversion to more standard png file.
 
 # PNG image preprocessing
-The codes assume existance of "dataSrc" directory in the main project directory.
+The codes assume existance of "dataSrc" directory in the /src directory.
 The dataSrc contains a database of SAR scans in png files.
 
 If the images contain big parts of dark area (caused by casting of the imagery in the TIF to png conversion) 
