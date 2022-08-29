@@ -46,12 +46,18 @@ network_visualisation.py allows for performing benchmark of the trained neural n
 
 network_visualisation_lib.py contains the functions used by network_visualisation.py.
 
+
 # Citation / deep dive
 
-The algorithms used in here were described in the article < TO add - link >
+The algorithms used in here were described in the article [https://www.mdpi.com/1424-8220/22/17/6519](https://www.mdpi.com/1424-8220/22/17/6519)
 For citation please use: 
 
-Gromada, K. Unsupervised SAR Imagery Feature Learning with Median Filter-Based Loss Value. Sensors <2022, 1, 0. https://doi.org/>
+AMA Style:
+Gromada K. Unsupervised SAR Imagery Feature Learning with Median Filter-Based Loss Value. Sensors. 2022; 22(17):6519. https://doi.org/10.3390/s22176519
+
+Chicago/Turabian Style:
+Gromada, Krzysztof. 2022. "Unsupervised SAR Imagery Feature Learning with Median Filter-Based Loss Value" Sensors 22, no. 17: 6519. https://doi.org/10.3390/s22176519 
+
 
 # Trained neural networks
 
