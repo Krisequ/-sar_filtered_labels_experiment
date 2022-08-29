@@ -49,14 +49,19 @@ network_visualisation_lib.py contains the functions used by network_visualisatio
 # Citation / deep dive
 
 The algorithms used in here were described in the article < TO add - link >
-For citation please use: " "
+For citation please use: 
+
+Gromada, K. Unsupervised SAR Imagery Feature Learning with Median Filter-Based Loss Value. Sensors <2022, 1, 0. https://doi.org/>
 
 # Trained neural networks
 
 The neural networks trained with these algorithms can be found under: 
+
 [https://www.dropbox.com/s/izg31nd59ywf2h2/CNN_SAR_AE_Weigths.zip?dl=0](https://www.dropbox.com/s/izg31nd59ywf2h2/CNN_SAR_AE_Weigths.zip?dl=0)
 
 The files containing weights, training logs and test images per-sub-epoch can be found:
+
+[https://www.dropbox.com/s/t63ifout6gzs8kb/CNN_SAR_AE_Weigths_and_training.zip?dl=0](https://www.dropbox.com/s/t63ifout6gzs8kb/CNN_SAR_AE_Weigths_and_training.zip?dl=0)
 
 
 
