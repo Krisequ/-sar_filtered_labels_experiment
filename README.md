@@ -45,3 +45,20 @@ network_visualisation.py allows for performing benchmark of the trained neural n
 - convolutional feature extraction-per layer
 
 network_visualisation_lib.py contains the functions used by network_visualisation.py.
+
+# Citation / deep dive
+
+The algorithms used in here were described in the article < TO add - link >
+For citation please use: " "
+
+# Trained neural networks
+
+The neural networks trained with these algorithms can be found under: 
+[https://www.dropbox.com/s/izg31nd59ywf2h2/CNN_SAR_AE_Weigths.zip?dl=0](https://www.dropbox.com/s/izg31nd59ywf2h2/CNN_SAR_AE_Weigths.zip?dl=0)
+
+The files containing weights, training logs and test images per-sub-epoch can be found:
+
+
+
+
+
